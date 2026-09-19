@@ -1,0 +1,9 @@
+{
+    "model": "YOLOv8n",
+    "class_name": "barrier",
+    "source_class": "gate barrier",
+    "run_folder": "barrier_yolov8n_1789593023",
+    "best_weights": "runs/barrier_yolov8n_1789593023/weights/best.pt",
+    "last_weights": "runs/barrier_yolov8n_1789593023/weights/last.pt",
+    "data_yaml": "dataset_yolo/data.yaml"
+}

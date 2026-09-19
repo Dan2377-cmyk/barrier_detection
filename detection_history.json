@@ -1,0 +1,41 @@
+[
+    {
+        "request_id": "ae1012eb",
+        "date": "2026-09-16 21:55:55",
+        "source_image": "ae1012eb_IMG-82f297b41bb8d8444203d474d5439386-V.jpg",
+        "barrier_detected": true,
+        "barrier_count": 1,
+        "confidence_threshold": 0.020969,
+        "confidences": [
+            0.023262
+        ],
+        "result_image": "result_ae1012eb.jpg",
+        "max_confidence": 0.023262
+    },
+    {
+        "request_id": "cdeb8e0f",
+        "date": "2026-09-16 22:01:56",
+        "source_image": "work_24.jpg",
+        "barrier_detected": true,
+        "barrier_count": 1,
+        "confidence_threshold": 0.020969081670045853,
+        "confidences": [
+            0.021076565608382225
+        ],
+        "max_confidence": 0.021076565608382225,
+        "result_image": "result_cdeb8e0f.jpg"
+    },
+    {
+        "request_id": "40ecdadd",
+        "date": "2026-09-16 22:06:28",
+        "source_image": "work_24.jpg",
+        "barrier_detected": true,
+        "barrier_count": 1,
+        "confidence_threshold": 0.020969081670045853,
+        "confidences": [
+            0.021076565608382225
+        ],
+        "max_confidence": 0.021076565608382225,
+        "result_image": "result_40ecdadd.jpg"
+    }
+]
